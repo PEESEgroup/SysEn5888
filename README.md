@@ -1,6 +1,6 @@
 # SysEn-5888
 Code Tutorials for SYSEN 5888 Deep Learning. 
-The 14 tutorials are:
+The topics of 14 tutorials are:
 - Environment setup, Jupyter overview, and Python Basics
 - NumPy, Pandas, Visualizations
 - Keras and Tensorflow Introduction
