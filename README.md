@@ -1,17 +1,20 @@
 # SysEn-5888
 Code Tutorials for SYSEN 5888 Deep Learning. 
-The topics of 14 tutorials are:
-- Environment setup, Jupyter overview, and Python Basics
-- NumPy, Pandas, Visualizations
-- Keras and Tensorflow Introduction
-- Basics of Vision CNN. 
-- CNN in Practice
-- Transfer learning
--  Object detection and Segmentation
-- Text and Sequences Working with Data
-- Text and sequences RNN and CNN
-- Transformers Implementation
-- Generative Modeling VAE
-- Generative Modeling GAN
-- Deep Reinforcement Learning
-- GNN and Best Practices
+## Tutorials:
+### T1: [Environment setup, Jupyter overview, and Python Basics](https://github.com/pandao/editor.md "Heading link")
+![img/Picture 1](jpg)
+### T2: [NumPy, Pandas, Visualizations](https://github.com/pandao/editor.md "Heading link")
+![img/Picture2](jpg)
+### T3: [Keras and Tensorflow Introduction](https://github.com/pandao/editor.md "Heading link")
+### T4: [Basics of Vision CNN. ](https://github.com/pandao/editor.md "Heading link")
+### T5: [CNN in Practice](https://github.com/pandao/editor.md "Heading link")
+### T6: [Transfer learning](https://github.com/pandao/editor.md "Heading link")
+### T7: [Object detection and Segmentation](https://github.com/pandao/editor.md "Heading link")
+### T8: [Text and Sequences Working with Data](https://github.com/pandao/editor.md "Heading link")
+### T9: [Text and sequences RNN and CNN](https://github.com/pandao/editor.md "Heading link")
+### T10: [Transformers Implementation](https://github.com/pandao/editor.md "Heading link")
+### T11: [Generative Modeling VAE](https://github.com/pandao/editor.md "Heading link")
+### T12: [Generative Modeling GAN](https://github.com/pandao/editor.md "Heading link")
+### T13: [Deep Reinforcement Learning](https://github.com/pandao/editor.md "Heading link")
+
+### T14: [GNN and Best Practices](https://github.com/pandao/editor.md "Heading link")
