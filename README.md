@@ -5,10 +5,12 @@ Code Tutorials for SYSEN 5888 Deep Learning.
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture1.png" width="500" >
 </p>
+
 ### T2: [NumPy, Pandas, Visualizations](https://github.com/pandao/editor.md "Heading link")
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture2.png" width="500" >
 </p>
+
 ### T3: [Keras and Tensorflow Introduction](https://github.com/pandao/editor.md "Heading link")
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture3.png" width="500" >
