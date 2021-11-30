@@ -5,16 +5,30 @@ A collection tutorial materials for the Summer 2021 SYSEN 5888 (Deep Learning) a
 ### T1: [Environment setup, Jupyter overview, and Python Basics](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231-Jupyter%20Overview%20and%20Python%20Basics.ipynb "Heading link")
 
 #### T1: [Slides](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231%20Environment%20Setup.pptx "Heading link")
+
+
+An environment setup is provided here for all following tutorials including the installation of Python 3.8 and Jupyter through Anaconda distribution. An overview of the Python programming language is also included. 
+
+
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture1.png" width="500" >
 </p>
 
 ### T2: [NumPy, Pandas, Visualizations](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%232-NumPy%2C%20Pandas%2C%20Visualizations%20.ipynb "Heading link")
+
+
+A tutorial of the installation and basics of Tensorflow and Keras. Development in the course is mainly built on Tensorflow==2.5.0
+
+
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture2.png" width="500" >
 </p>
 
 ### T3: [Keras and Tensorflow Introduction](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%233-%20Keras%20and%20Tensorflow%20Introduction.ipynb "Heading link")
+
+A tutorial of the basics of Convolutional Neural Network including operations and MNIST example
+
+
 <p align="center">
   
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture3.png" width="500" >
