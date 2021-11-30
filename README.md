@@ -3,7 +3,7 @@ Code Tutorials for SYSEN 5888 Deep Learning.
 ## Tutorials:
 ### T1: [Environment setup, Jupyter overview, and Python Basics](https://github.com/pandao/editor.md "Heading link")
 <p align="center">
-<img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture1.png" width="900" >
+<img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture1.png" width="500" >
 </p>
 ### T2: [NumPy, Pandas, Visualizations](https://github.com/pandao/editor.md "Heading link")
 ![img/Picture2](jpg)
