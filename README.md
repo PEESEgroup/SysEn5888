@@ -1,7 +1,7 @@
 # SysEn-5888
 Code Tutorials for SYSEN 5888 Deep Learning. 
 ## Tutorials:
-### T1: [Environment setup, Jupyter overview, and Python Basics](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231-Jupyter%20Overview%20and%20Python%20Basics.ipynb"Heading link")
+### T1: [Environment setup, Jupyter overview, and Python Basics](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231-Jupyter%20Overview%20and%20Python%20Basics.ipynb "Heading link")
 #### T1: [Slides](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231%20Environment%20Setup.pptx "Heading link")
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture1.png" width="500" >
