@@ -3,6 +3,7 @@ A collection tutorial materials for the Summer 2021 SYSEN 5888 (Deep Learning) a
 
 ## Tutorials:
 ### T1: [Environment setup, Jupyter overview, and Python Basics](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231-Jupyter%20Overview%20and%20Python%20Basics.ipynb "Heading link")
+
 #### T1: [Slides](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231%20Environment%20Setup.pptx "Heading link")
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture1.png" width="500" >
@@ -40,7 +41,7 @@ A collection tutorial materials for the Summer 2021 SYSEN 5888 (Deep Learning) a
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture7.jpg" width="500" >
 </p>
 
-### T8: [Text and Sequences Working with Data](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%238-Text%20and%20Sequences%20Working%20with%20Data.ipynbd "Heading link")
+### T8: [Text and Sequences Working with Data](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%238-Text%20and%20Sequences%20Working%20with%20Data.ipynb "Heading link")
 <p align="center">
 <img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture8.png" width="500" >
 </p>
