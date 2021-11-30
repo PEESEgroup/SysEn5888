@@ -35,8 +35,9 @@ A collection tutorial materials for the Summer 2021 SYSEN 5888 (Deep Learning) a
 </p>
 
 ### T7: [Object detection and Segmentation](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%237-%20Object%20detection%20and%20Segmentation.ipynb "Heading link")
+
 <p align="center">
-<img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture7.png" width="500" >
+<img src="https://github.com/PEESEgroup/SysEn5888/blob/main/img/Picture7.jpg" width="500" >
 </p>
 
 ### T8: [Text and Sequences Working with Data](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%238-Text%20and%20Sequences%20Working%20with%20Data.ipynbd "Heading link")
