@@ -1,5 +1,5 @@
 # SysEn-5888
-A collection tutorial materials for the Summer 2021 SYSEN 5888 (Deep Learning) at Cornell University.
+A collection tutorial materials for the "SYSEN 5888/6888: Deep Learning" course at Cornell University.
 
 ## Tutorials:
 ### T1: [Environment setup, Jupyter overview, and Python Basics](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%231-Jupyter%20Overview%20and%20Python%20Basics.ipynb "Heading link")
